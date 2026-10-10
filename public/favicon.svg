@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <defs>
+    <linearGradient id="thorFaviconGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="60%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="12" fill="#07020d"/>
+  <!-- Top Hammer / T-Bar Plateau -->
+  <path d="M19 6 H29 V9 H19 Z" fill="url(#thorFaviconGrad)"/>
+  <!-- Main Hammer Head / T-Crossbar -->
+  <path d="M10 10 C8.8 10 8 10.8 8 12 V18 C8 19.2 8.8 20 10 20 H18 L26 10 H10 Z" fill="url(#thorFaviconGrad)"/>
+  <path d="M28 10 L30 13 H38 C39.2 13 40 13.8 40 15 V18 C40 19.2 39.2 20 38 20 H25 L23 20 H25 L28 10 Z" fill="url(#thorFaviconGrad)"/>
+  <!-- Vertical Stem -->
+  <path d="M20 28 V40 C20 41.6 21.4 43 23 43 H25 C26.6 43 28 41.6 28 40 V24 H25 L23 28 H20 Z" fill="url(#thorFaviconGrad)"/>
+  <!-- Lightning Bolt -->
+  <polygon points="26,10 16,26 23,26 14,42 34,22 25,22" fill="url(#thorFaviconGrad)"/>
+</svg>
